@@ -1,4 +1,6 @@
-# Plataforma ELK para datos de Contratos en formato OCDS (Open Contracting)
+# Documentacion TowerBuilder
+
+TowerBuilder es un sistema que no requiere programación para generar sitios web con visualizaciones de datos de contrataciones, especialmente orientado a grandes obras públicas, inspirado por [www.torredecontrol.org](www.torredecontrol.org).
 
 ## Manual
 
@@ -10,7 +12,7 @@
 
 ## Instrucciones básicas
 
-### Iniciar servidor ElasticSearch + Kibana
+<!-- ### Iniciar servidor ElasticSearch + Kibana
 
 Ejecutar `docker-compose -f elastic-kibana.yml up` para levantar los servicios.
 
@@ -18,4 +20,4 @@ Abrir en el navegador [http://localhost:5601/](http://localhost:5601/app/kibana)
 
 ### Procesamiento de datos
 
-Para tomar los datos publicados en OCDS y poder ingresarlos en la plataforma ELK debemos seguir las instrucciones en [Pipeline](./pipeline/README.md)
+Para tomar los datos publicados en OCDS y poder ingresarlos en la plataforma ELK debemos seguir las instrucciones en [Pipeline](./pipeline/README.md) -->
