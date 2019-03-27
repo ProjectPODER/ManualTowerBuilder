@@ -1,6 +1,6 @@
 # Editar los textos
 
-Los archivos de texto están en la carpeta textos/ y están en formato MarkDown.
+Los archivos de texto que se pueden editar, están en formato MarkDown (.md).
 
 Markdown es una sintaxis liviana y fácil de usar para dar estilo a los textos en la web. Tú controlas la visualización del documento; formatear palabras en negrita o cursiva, agregar imágenes y crear listas son solo algunas de las cosas que podemos hacer con Markdown. En general, Markdown es solo texto regular con algunos caracteres no alfabéticos, como `#` o `*`.
 
@@ -8,7 +8,7 @@ Te recomendamos la [guía de Markdown de Github](https://guides.github.com/featu
 
 ## Textos principales
 
-Los textos principales son los de las secciones que aparecen en el menú principal.
+Los textos principales están conformados por las secciones que aparecen en el menú principal.
 
 ## Artículos
 
