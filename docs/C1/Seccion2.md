@@ -4,9 +4,9 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
 
 1. Navegar hasta el archivo de configuración, para eso debes entrar a tu repositorio y buscar el archivo "**config.yml**".
 
-2. Haz click en el nombre del archivo para abrirlo.
+2. Da click en el nombre del archivo para abrirlo.
 
-3. Haz click en el botón "edit" en la parte superior derecha.
+3. Da click en el botón "edit" en la parte superior derecha.
 
 4. Comienza a cambiar valores. Este archivo está en un formato llamado YAML, esto significa que está copuesto por una serie de pares de variables con sus valores, cada línea comienza con un nombre de variable, un signo de dos puntos (:) y luego el valor. 
 
@@ -16,7 +16,7 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
 
 	No debes cambiar nunca los nombres de las variables, sólo cambiarás lo que viene después de los dos puntos. 
     
-    1. Lo primero que vas a cambiar es la variable _title_, esta define el nombre que tendrá tu sitio en diferentes lugares tales como la solapa del navegador, los resultados de búsqueda y en el encabezado del sitio. Para esto busca donde dice 
+    1. Lo primero que vas a cambiar es la variable _title_, esta define el nombre que tendrá tu sitio en diferentes lugares tales como la solapa del navegador, los resultados de búsqueda y en el encabezado del sitio. Para esto busca donde dice:
 	
 	```
     title: "TowerBuilder" 
@@ -29,8 +29,8 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
 	1. Otros valores importantes a cambiar son: 
 
 	```
-    image: tb-logo.png # cambiarlo por el logo de tu proyecto o dejarlo vacío, es opcional
-    description: >- # cambiarlo por la descripción de tu proyecto 
+    image: tb-logo.png //cambiarlo por el logo de tu proyecto o dejarlo vacío, es opcional
+    description: >- //cambiarlo por la descripción de tu proyecto 
   	TowerBuilder es un sistema que no requiere programación para generar sitios web con visualizaciones de datos de contrataciones, especialmente orientado a grandes obras públicas, inspirado por www.torredecontrol.org. 
 	```
 

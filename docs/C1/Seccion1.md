@@ -4,7 +4,7 @@ Para poder empezar con tu sitio, primero debes crear tu propio repositorio. El r
 
 1. Es necesario estar registrado en GitHub.com, si no tienes una cuenta puedes crear una [aquí](https://github.com/join?source=header-home).
 
-Excención de responsabilidades: GitHub.com es una subsidiaria de Microsoft Inc. que provee servicios de alojamiento de repositorios git y de alojamiento web de forma sencilla y gratuita, por lo que fue elegida para este proyecto y para publicar el código de nuestra organización.
+   Excención de responsabilidades: GitHub.com es una subsidiaria de Microsoft Inc. que provee servicios de alojamiento de repositorios git y de alojamiento web de forma sencilla y gratuita, por lo que fue elegida para este proyecto y para publicar el código de nuestra organización.
 
 2. GitHub te pedirá que verifiques tu dirección de correo, para más información puedes revisar la [documentación oficial](https://help.github.com/en/articles/verifying-your-email-address).
 
@@ -16,9 +16,9 @@ Excención de responsabilidades: GitHub.com es una subsidiaria de Microsoft Inc.
 
 ## Definir la dirección de tu sitio
 
-Inicialmente, tu nombre de usuario y el nombre del repositorio se verán reflejado en la dirección URL de tu sitio cuando esté publicado. Este tendrá la forma de tu_usuario.github.io/TowerBuilder
+Inicialmente, tu nombre de usuario y el nombre del repositorio se verán reflejados en la dirección URL de tu sitio cuando esté publicado. Este tendrá la forma de **tu_usuario.github.io/TowerBuilder**
 
-1. Si deseas cambiar la parte de tu_usuario podrás [cambiar tu nombre de usuario](https://help.github.com/en/articles/changing-your-github-username) o [crear una cuenta de organización en Github](https://help.github.com/en/articles/creating-a-new-organization-from-scratch) y elegir la organización al momento de bifircuar el repositorio. Si ya has creado el repositorio, puedes [moverlo a la organización](https://help.github.com/en/articles/transferring-a-repository).
+1. Si deseas cambiar la parte de _tu_usuario_ podrás [cambiar tu nombre de usuario](https://help.github.com/en/articles/changing-your-github-username) o [crear una cuenta de organización en Github](https://help.github.com/en/articles/creating-a-new-organization-from-scratch) y elegir la organización al momento de bifircuar el repositorio. Si ya has creado el repositorio, puedes [moverlo a la organización](https://help.github.com/en/articles/transferring-a-repository).
 
 2. Puedes cambiar el nombre de tu repositorio. Si deseas cambiar la parte de TowerBuilder puedes [cambiar el nombre del repositorio](https://help.github.com/en/articles/renaming-a-repository).
 
