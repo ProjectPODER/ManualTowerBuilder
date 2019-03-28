@@ -8,7 +8,7 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
 
 3. Da click en el botón "edit" en la parte superior derecha.
 
-4. Comienza a cambiar valores. Este archivo está en un formato llamado YAML, esto significa que está copuesto por una serie de pares de variables con sus valores, cada línea comienza con un nombre de variable, un signo de dos puntos (:) y luego el valor. 
+4. Comienza a cambiar valores. Este archivo está en un formato llamado YAML, esto significa que está compuesto por una serie de pares de variables con sus valores, cada línea comienza con un nombre de variable, un signo de dos puntos (:) y luego el valor. 
 
 	```
 	variable: valor
