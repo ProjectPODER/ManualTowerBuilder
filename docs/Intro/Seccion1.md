@@ -1,18 +1,15 @@
-Documentación TowerBuilder
-==========================
+# Documentación TowerBuilder
 
 TowerBuilder es un sistema que no requiere programación para generar sitios web con visualizaciones de datos de contrataciones, especialmente orientado a grandes obras públicas, inspirado por [www.torredecontrol.org](www.torredecontrol.org).
 
-¿Qué necesito para armar mi sitio con TowerBuilder?
----------------------------------------------------
+## ¿Qué necesito para armar mi sitio con TowerBuilder?
 
 - Conseguir un listado de contrataciones en formato OCDS.
 - Armar una planilla de cálculo con los dueños de las empresas contratistas.
 - Redactar y editar textos en formato [MarkDown](https://guides.github.com/features/mastering-markdown/).
 - Una cuenta de [GitHub.com](https://github.com/).
 
-¿Qué ventajas tiene usar TowerBuilder para armar mi sitio?
-----------------------------------------------------------
+## ¿Qué ventajas tiene usar TowerBuilder para armar mi sitio?
 
 - El diseño predeterminado no requiere ningún esfuerzo de programación ni alojamiento del sitio, se hace todo desde GitHub.com
 - Tendrás una visualización de datos impactante y un útil sistema de búsqueda de contratos.
