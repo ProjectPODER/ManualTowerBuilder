@@ -23,7 +23,13 @@ TowerBuilder es un sistema que no requiere programación para generar sitios web
 
 .. toctree::
    :maxdepth: 2
-   :caption: 1. ¿Cuáles son los pasos?
+   :caption: Introducción
+
+   index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: ¿Cuáles son los pasos?
 
    C1/Seccion1
    C1/Seccion2
