@@ -22,9 +22,9 @@ TowerBuilder es un sistema que no requiere programación para generar sitios web
 
 
 .. toctree::
-   :caption: Introducción
+   :caption: Inicio
 
-   index
+   Intro/Seccion1
 
 .. toctree::
    :maxdepth: 2
