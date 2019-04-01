@@ -22,8 +22,9 @@ Para editar los textos de cada slide del slider:
   - **sliders/_first-slider/slide-1.md**
   - **sliders/_first-slider/slide-2.md**
   - **sliders/_first-slider/slide-3.md**
-  <br>
+
 Para añadir o quitar un slide, sólo debes añadir o quitar un archivo **.md** dentro de la carpeta **_first-slider**.
+
 
 Para cambiar o añadir una imagen (_.jpg_, _png_ o _.svg_) dentro del slider, debes agregar la imagen dentro de la carpeta **assets/img/** y agregar el nombre del archivo dentro del archivo correspondiente al slide en el que aparecerá la imagen.
 
