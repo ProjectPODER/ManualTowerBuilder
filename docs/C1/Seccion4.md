@@ -62,6 +62,26 @@ permalink: /link-de-la-pagina/
 ---
 ```
 
+### Cambiar el orden de los elementos del menú principal
+
+Tower Builder añade los elementos del menú principal en orden alfabético, se pueden reordenar cambiando el número que se encuentra en el nombre del archivo, de acuerdo al orden que se desee.
+
+Por default tenemos este orden:
+
+1. Home
+2. slider.html
+3. visualization-slider.html
+4. about.md
+5. contracts.html
+6. styleguide.md
+
+#### Agregar o eliminar un elemento 
+
+?
+
+Para quitar un elemento del menú, basta con eliminar el archivo. 
+
+
 ## Artículos
 
 Los artículos son notas que analizan contratos, y aparecen vinculados a estos en el gráfico.
