@@ -10,6 +10,13 @@ Te recomendamos la [guía de Markdown de Github](https://guides.github.com/featu
 
 Los textos principales están conformados por las secciones que aparecen en el menú principal.
 
+Para editar los archivos:
+1. En el repositorio en Github, dar click en el archivo que se quiere modificar .
+2. Dentro del archivo, dar click en el ícono del lápiz (Edit this file).
+3. Modificar el archivo en formato markdown.
+4. Una vez editado, ir a la parte de abajo de la página en la sección **Commit changes**, en el primer campo añadir una corta descripción de los cambios que se hicieron, puedes agregar una descripción más extensa en el siguiente campo, de manera opcional.
+5. Guardar los cambios dando click en el botón verde **Commit changes**
+
 A continuación, mostramos la lista de documentos que se pueden editar:
 
 Para editar los textos de la página principal:
@@ -36,7 +43,7 @@ Para editar los textos del slider con la visualización:
 
 ### Nombre de páginas y permalinks
 
-Puedes editar el nombre y el permalink de cada sección del menú principal.
+Puedes editar el nombre y el permalink que se mostrará cada sección del menú principal.
 
 Para eso, debes ubicar en cada archivo editable, el área donde se encuentra esta información, por ejemplo:
 
@@ -47,6 +54,7 @@ title: Home
 permalink: /
 ---
 ```
+
 Para cambiar el nombre de la página, edita:
 
 ```
@@ -75,10 +83,18 @@ Por default tenemos este orden:
 5. contracts.html
 6. styleguide.md
 
+Estos son los pasos para editar el nombre de un archivo en Github:
+1. Da click en el archivo que quieres modificar.
+2. Dentro del archivo, dar click en el ícono del lápiz (Edit this file).
+3. En la parte superior de la página, encontrarás el campo donde se modifica el nombre del archivo.
+4. Modificar el nombre del archivo.
+5. Una vez modificado, ir a la parte de abajo de la página en la sección **Commit changes**, en el primer campo añadir una corta descripción de los cambios que se hicieron, puedes agregar una descripción más extensa en el siguiente campo, de manera opcional.
+6. Guardar los cambios dando click en el botón verde **Commit changes**
+
 #### Agregar o eliminar un elemento 
 
-?
-
+Para agregar una página de información, debes crear un archivo con el número y nombre correspondiente en la raíz de la carpeta.
+ 
 Para quitar un elemento del menú, basta con eliminar el archivo. 
 
 

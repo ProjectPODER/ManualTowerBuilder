@@ -1,6 +1,6 @@
 # Bifurcar el repositorio
 
-Para poder empezar con tu sitio, primero debes crear tu propio repositorio. El repositorio es el espacio en el que estarán los archivos de tu sitio, y bifurcar significa que harás una copia del repositorio para tomarlo como base.
+Para poder empezar con tu sitio, primero debes crear tu propio repositorio. El repositorio es el espacio en el que estarán los archivos de tu sitio, y bifurcar significa que harás una copia del repositorio original de Tower Builder para tomarlo como base.
 
 1. Es necesario estar registrado en GitHub.com, si no tienes una cuenta puedes crear una [aquí](https://github.com/join?source=header-home).
 
