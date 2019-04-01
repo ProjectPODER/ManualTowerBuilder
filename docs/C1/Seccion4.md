@@ -13,27 +13,24 @@ Los textos principales están conformados por las secciones que aparecen en el m
 A continuación, mostramos la lista de documentos que se pueden editar:
 
 - Para editar los textos de la página principal:
-  **1-home.md**
-
-
+  - **1-home.md**
+<br>
 - Para editar los textos de la página Acerca:
-  **4-about.md**
-
-
+  - **4-about.md**
+<br>
 - Para editar los textos de cada slide del slider:
-  **sliders/_first-slider/slide-1.md**
-  **sliders/_first-slider/slide-2.md**
-  **sliders/_first-slider/slide-3.md**
-
+  - **sliders/_first-slider/slide-1.md**
+  - **sliders/_first-slider/slide-2.md**
+  - **sliders/_first-slider/slide-3.md**
+<br>
   Para añadir o quitar un slide, sólo debes añadir o quitar un archivo **.md** dentro de la carpeta **_first-slider**.
 
   Para cambiar o añadir una imagen (_.jpg_, _png_ o _.svg_) dentro del slider, debes agregar la imagen dentro de la carpeta **assets/img/** y agregar el nombre del archivo dentro del archivo correspondiente al slide en el que aparecerá la imagen.
-
-
+<br>
 - Para editar los textos del slider con la visualización:
-  **sliders/_visualization-slider/slide-1.md**
-  **sliders/_visualization-slider/slide-2.md**
-  **sliders/_visualization-slider/slide-3.md**
+  - **sliders/_visualization-slider/slide-1.md**
+  - **sliders/_visualization-slider/slide-2.md**
+  - **sliders/_visualization-slider/slide-3.md**
 
 
 ### Nombre de páginas y permalinks
