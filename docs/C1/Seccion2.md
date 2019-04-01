@@ -16,7 +16,7 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
 
 	No debes cambiar nunca los nombres de las variables, sólo cambiarás lo que viene después de los dos puntos. 
     
-    1. Lo primero que vas a cambiar es la variable _title_, esta define el nombre que tendrá tu sitio en diferentes lugares tales como la solapa del navegador, los resultados de búsqueda y en el encabezado del sitio. Para esto busca donde dice:
+    - Lo primero que vas a cambiar es la variable _title_, esta define el nombre que tendrá tu sitio en diferentes lugares tales como la solapa del navegador, los resultados de búsqueda y en el encabezado del sitio. Para esto busca donde dice:
 	
 	```
     title: "TowerBuilder" 
@@ -26,7 +26,7 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
     title: "Análisis de contrataciones de la carretera sur".
 	```
 
-	1. Otros valores importantes a cambiar son: 
+	- Otros valores importantes a cambiar son: 
 
 	```
     image: tb-logo.png //cambiarlo por el logo de tu proyecto o dejarlo vacío, es opcional
@@ -34,4 +34,4 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
   	TowerBuilder es un sistema que no requiere programación para generar sitios web con visualizaciones de datos de contrataciones, especialmente orientado a grandes obras públicas, inspirado por www.torredecontrol.org. 
 	```
 
-    1. Para un detalle de todas las posibles opciones revisa esta página: (opciones de configuración de towerbuilder)
+    - Para un detalle de todas las posibles opciones revisa esta página: (opciones de configuración de towerbuilder)

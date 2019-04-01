@@ -10,6 +10,57 @@ Te recomendamos la [guía de Markdown de Github](https://guides.github.com/featu
 
 Los textos principales están conformados por las secciones que aparecen en el menú principal.
 
+A continuación, mostramos la lista de documentos que se pueden editar:
+
+- Para editar los textos de la página principal:
+	- 1-home.md
+
+- Para editar los textos de la página Acerca:
+	- 4-about.md
+
+- Para editar los textos de cada slide del slider:
+	- sliders/_first-slider/slide-1.md
+	- sliders/_first-slider/slide-2.md
+	- sliders/_first-slider/slide-3.md
+
+  Para añadir o quitar un slide, sólo debes añadir o quitar un archivo _.md_ dentro de la carpeta _first-slider.
+
+  Para cambiar o añadir una imagen (_.jpg_, _png_ o _.svg_) dentro del slider, debes agregar la imagen dentro de la carpeta **assets/img/** y agregar el nombre del archivo dentro del archivo correspondiente al slide en el que aparecerá la imagen.
+
+- Para editar los textos del slider con la visualización:
+	- sliders/_visualization-slider/slide-1.md
+	- sliders/_visualization-slider/slide-2.md
+	- sliders/_visualization-slider/slide-3.md
+
+
+### Nombre de páginas y permalinks
+
+Puedes editar el nombre y el permalink de cada sección del menú principal.
+
+Para eso, debes ubicar en cada archivo editable, el área donde se encuentra esta información, por ejemplo:
+
+```
+---
+layout: home
+title: Home
+permalink: /
+---
+```
+Para cambiar el nombre de la página, edita:
+
+```
+---
+title: Nombre de la página
+---
+```
+
+Para cambiar el permalink, edita:
+```
+---
+permalink: /link-de-la-pagina/
+---
+```
+
 ## Artículos
 
 Los artículos son notas que analizan contratos, y aparecen vinculados a estos en el gráfico.
